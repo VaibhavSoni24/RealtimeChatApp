@@ -50,4 +50,4 @@ npm start
 
 This project was completed as part of the "Building a Realtime Chat App with React and Socket.io" certified workshop by Skyy Skill Academy.
 
-![🔗 View Certificate](https://lms-admin-4492e.web.app/qr_valid/68199c7b9a6e0ea9171a775e/)
+[🔗 View Certificate](https://lms-admin-4492e.web.app/qr_valid/68199c7b9a6e0ea9171a775e/)
